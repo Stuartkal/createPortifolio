@@ -1,0 +1,16 @@
+.container {
+    background-color:#3CAEA3;
+    width: 30%;
+    height: 250px;
+    border-radius: 5px;
+    padding:30px;
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.2); 
+}
+.btn {
+    margin-top: 20px;
+}
+.list {
+    display: inline;
+    flex-direction: column
+}
